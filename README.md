@@ -10,18 +10,23 @@ I work with **Unreal Engine**, using both **BPs** and **C++**, and have been dee
 I also share my knowledge and learning process through videos on my *personal* YouTube channel
 **[Pixel to Pixel](http://www.youtube.com/@Pixel-2-Pixel)**.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RonaldFrota-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+![](https://github-readme-stats.vercel.app/api?username=RonaldFrota-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldFrota-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
+
+### 🧰 Languages and Tools
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+<!--#
+
+### Latest YouTube Videos
+
+[![AI is writing 90% of your code?](https://ytcards.demolab.com/?id=howz8BKRUQM&title=AI+is+writing+90%25+of+your+code%3F&lang=en&timestamp=1758908426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "AI is writing 90% of your code?")](https://www.youtube.com/shorts/howz8BKRUQM)
+[![Java just got cleaner](https://ytcards.demolab.com/?id=YLCrAm-aGI8&title=Java+just+got+cleaner&lang=en&timestamp=1758046504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=449 "Java just got cleaner")](https://www.youtube.com/watch?v=YLCrAm-aGI8)
+[![Java is 30 Years Old // Here’s Why It’s Still Winning](https://ytcards.demolab.com/?id=spJwsa4KFrU&title=Java+is+30+Years+Old+%2F%2F+Here%E2%80%99s+Why+It%E2%80%99s+Still+Winning&lang=en&timestamp=1757602898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=574 "Java is 30 Years Old // Here’s Why It’s Still Winning")](https://www.youtube.com/watch?v=spJwsa4KFrU)
+[![Portable Workstation](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Portable Workstation")](https://www.youtube.com/shorts/s3uqGfDc8P8)
+[![Why Everyone's Switching to Rust (And Why You Shouldn't)](https://ytcards.demolab.com/?id=meEXag1XCFw&title=Why+Everyone%27s+Switching+to+Rust+%28And+Why+You+Shouldn%27t%29&lang=en&timestamp=1755619274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=884 "Why Everyone's Switching to Rust (And Why You Shouldn't)")](https://www.youtube.com/watch?v=meEXag1XCFw)
+[![AI Has Changed How We Build Software // What You Need to Know](https://ytcards.demolab.com/?id=3VQhdXcQ5qI&title=AI+Has+Changed+How+We+Build+Software+%2F%2F+What+You+Need+to+Know&lang=en&timestamp=1755026101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "AI Has Changed How We Build Software // What You Need to Know")](https://www.youtube.com/watch?v=3VQhdXcQ5qI)
+-->
