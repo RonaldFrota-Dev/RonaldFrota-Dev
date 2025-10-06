@@ -34,7 +34,7 @@ I also share my knowledge and learning process through videos on my *personal* Y
 
 ### Favorite Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldFrota-Dev&repo=BattleBlaster&theme=holi)](https://github.com/RonaldFrota-Dev/BattleBlaster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldFrota-Dev&repo=BattleBlaster&theme=holi)](https://github.com/RonaldFrota-Dev/BattleBlaster)</br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldFrota-Dev&repo=DungeonEscape&theme=holi)](https://github.com/RonaldFrota-Dev/DungeonEscape)
 
 <!--#
