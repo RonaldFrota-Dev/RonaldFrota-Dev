@@ -10,14 +10,33 @@ I work with **Unreal Engine**, using both **BPs** and **C++**, and have been dee
 I also share my knowledge and learning process through videos on my *personal* YouTube channel
 **[Pixel to Pixel](http://www.youtube.com/@Pixel-2-Pixel)**.
 
-![](https://github-readme-stats.vercel.app/api?username=RonaldFrota-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RonaldFrota-Dev&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
----
+#
 
-### 🧰 Languages and Tools
+### Languages and Tools
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+#
+
+### Favorite Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldFrota-Dev&repo=BattleBlaster&theme=holi)](https://github.com/RonaldFrota-Dev/BattleBlaster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldFrota-Dev&repo=DungeonEscape&theme=holi)](https://github.com/RonaldFrota-Dev/DungeonEscape)
+
 
 <!--#
 
