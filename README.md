@@ -10,8 +10,6 @@ I work with **Unreal Engine**, using both **BPs** and **C++**, and have been dee
 I also share my knowledge and learning process through videos on my *personal* YouTube channel
 **[Pixel to Pixel](http://www.youtube.com/@Pixel-2-Pixel)**.
 
-![](https://github-readme-stats.vercel.app/api?username=RonaldFrota-Dev&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 #
 
 ### Languages and Tools
@@ -35,8 +33,6 @@ I also share my knowledge and learning process through videos on my *personal* Y
 ### Favorite Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldFrota-Dev&repo=BattleBlaster&theme=holi)](https://github.com/RonaldFrota-Dev/BattleBlaster)
-</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonaldFrota-Dev&repo=DungeonEscape&theme=holi)](https://github.com/RonaldFrota-Dev/DungeonEscape)
 
 
 <!--#
